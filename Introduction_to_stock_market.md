@@ -21,3 +21,93 @@
 
 ## What is stock market
 A online platform to buy or sell stocks of the public company. 
+
+## Regulators
+
+### SEBI
+ SEBI is Security and exchange board of india is responsible for regulating and legalising anything and everything happening in stock market NSE and BSE.
+ 
+ They impose rules for smooth functioning of transactions, no manipulation by large cap market participants, stock brokers and sub srokers , hence everyone.
+ 
+ ### Depository
+ 
+ Bought shares are put in depository account, there are two got companies in india to open an DEMAT account they are NSDL(*National Security Depository Limited*) and CSDL(*Central Depository Service limited*)
+ 
+ ### Depository Participant
+ They are not client facing.
+ The accounts are developed and given only to stock brokers and the clients are engage through them.
+ 
+ ### Banks
+ There are three accounts through which the funds is transferred - DEMAT account, Stock brokers account, clients account.
+ Client can make upto 5 accounts which can transfer funds to broker, the money credited is only to one primary account of client.
+ 
+ ## IPO Market
+ 
+ BSE has over 5000 companies.
+ NSE has over 1600 companies.
+ 
+ ### Why IPO
+ When company want to raise funds.
+ Other ways for company are -
+ - Govt loan
+ - Private institution loan
+ - Overseas
+ 
+ Main reasons being - 
+ - CAPEX(Capital expenditure)
+ - Repay debt
+ - Provide exit for its initial investors (Angel investors, Venture Capitalist, Private Equity Investors) so that they can sell thier shares to public
+ 
+ ### Merchant Banker
+ The bank which will help in all the formalities before going public.
+ Its application is send to SEBI to see the worthiness of company for being IPO.
+ The public document for it is DHRP(Draft Red herring prospectus) which has all info about comapny revenue and shares.
+ 
+ _IF the price of shares in falling after listing day(when it got public) then comapny can opt for greenshoe option(Company itself buys upto 15% of its shares to support the falling price)_
+ 
+### The seed fund
+funds given by investors and owner in the most early stage of company
+
+### Valuation
+Total assets of a company
+
+### Face Value
+Value of single share
+
+### Series A Funding
+After 2 years and successful running of business, venture capitalist invests in company withtaking some shares of company
+
+### series B funding
+To expand more they approach a VC and take some debt from bank and there own company profit they use.
+
+### Series C funding
+now the company is established, privated equity(PE) investors can be approached, they usually put there person as borad member of company for smooth functioning and closely seeing what is happening inside. 
+If they take 14% at 60 cr investment, net company valuation is 428 cr.
+
+### Series D funding
+Normally they go public.
+
+## What moves the stock?
+
+Any good news concerning company for exanoke new ceo created and its reputation says company will do hgood makes its stock price increase. The news from NASSCOM highly impactful on stock price. Also, if narendra modi says something it will affect the market.
+
+### When we buy stock
+When someone buy stock it is saved in its DEMAT account and company provides benefits to shareholders like dividend, bonus, stock splt, voting rights, rights issue.
+
+### CAGR(Compound Annual growth rate)
+
+CAGR = (Ending value/beginning value)^1/year - 1
+
+when less than 1 year
+CAGR = (Ending value/beginning value -1)*100
+
+### Types of investors
+
+- Day trader ~ Buys n sells stock on the same day
+- Scalper ~ buys in huge chunks like 10000 and sells instantly in one or two minutes
+- Swing Trader ~ holds for few days to weeks
+- Investor ~ He keeps the shares for long duration and expects a larger growth
+  - Growth Investor ~ Invests in emerging companies 
+  - Valued Investor ~ Invests in growth phase or matured companies.
+  
+  
