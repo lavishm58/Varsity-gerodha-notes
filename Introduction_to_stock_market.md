@@ -110,4 +110,36 @@ CAGR = (Ending value/beginning value -1)*100
   - Growth Investor ~ Invests in emerging companies 
   - Valued Investor ~ Invests in growth phase or matured companies.
   
+### Technical Analysis
+#### Candlestick patterns
+
+There imp rules - 
+- Buy strength (bearish market since last days and buy at bullish at strength) and sell at weakness
+- Be flexible with patterns (verify and quantify)
+- Look for prior trend
+
+##### Single Candlestick patterns
+The pattern formed by one candle
+
+**The candle range** - the length of the candle higher in general specifies more buying / selling activity.
+Normal formula high-low
+Formula to - (Clos-open)/ ((open+low)/2)
+Too short(less trade, unfavorable) - 0.75% and Too long(stoploss is long) - 10% range (both not good for trade)
+*Trades on very short candle should be avoided*
+
+- **Marubozu** - Word means round part. 
+  Tere are two types - Bullish and bearish Marubuzo.
+  Maribozu is the only rule which violates 3rd rule.
+  What is it - Round candlestick means there is no shadow means open=low and high=close implies bullish marubozu and 
+  reverse for bearish.
+  Means people wanted to buy at every price point for bullish marubozu.
+  **As due to vast demand the surge of bullish sentiment will be for more trading sessions so buying opportunity is sure**
+  _In Reality Open can be close to low as minor variation is accepted_
+  **Normally buy at stoploss = open for the bullish day**
+- **Spinning Top** - The body is small and shadow is of same length. This means bulls tried to make market grow but didnt suceed and so did bearers both failed. It conveys indecision as both were not able to influence. 
+
+- **Doji** - When open and close are equal, only shadow is present. It represents indecision so *be prepared to expect market to go low or high and plan accordingly*
+
+- **Paper Umbrella** - its single sided spinning top then it conveys strong evidence of bulls or bears trying to impact market. Hanging   man means bearish and appearing after uptend rally and Hammer means bullish and appearing after downward rally.
+  To qualify as paper umbrella, shadow should be **atleast twice than body** matters most.Bullish hammer means after downward trend bulls finally break the prices and were succesful, means signs of upward trend.
   
