@@ -145,3 +145,17 @@ Too short(less trade, unfavorable) - 0.75% and Too long(stoploss is long) - 10% 
   
 - **Shooting Star** - It is like inverted paper umbrella, it is a bearish pattern appears after bullish rally
   
+#### Multiple Candlestick
+
+- **Englufing** - It has 2 trading session, one being small and T2 being relatively long.
+  - Bullish Engulfing - Three rules 
+    - It should be after a down trend or rally.
+    - T1 candlestick should be red.
+    - T2 should be green and long enough to engulf the red candle.
+    
+  - Bearish Engulfing - Three Rules
+    - It should be after upward rally
+    - T1 should be greeen.
+    - T2 should be red and should engulf the T1 candlestick.
+  **Combining Engulfing and doji - If on P1 and P2 follows engulfing and on next day there is doji means a great sign of trading, its an     never miss opportunity whenever doji is followed by a recognizable pattern.**
+- 
