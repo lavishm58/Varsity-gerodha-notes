@@ -158,4 +158,15 @@ Too short(less trade, unfavorable) - 0.75% and Too long(stoploss is long) - 10% 
     - T1 should be greeen.
     - T2 should be red and should engulf the T1 candlestick.
   **Combining Engulfing and doji - If on P1 and P2 follows engulfing and on next day there is doji means a great sign of trading, its an     never miss opportunity whenever doji is followed by a recognizable pattern.**
-- 
+- **Piercing** - Same as bullish engulfing but engulfing is one sided means partial and range of P2= More than 50% and less than 100 of   P1.
+- **Dark cloud** - Same as bearish engulfing with minor variation which is half bearish engulf same as piercing, trade set up is same.
+**Stocks of same sector like TCS and Infosys move in similar way, as if -ve news for banking then banking stocks all will fall and have similar candlestick patterns mostly**
+- **Harami** - Two candlesticks, P1 is long and P2 is small and both generallly are opposite colors, P1 engulfs P2.
+  - **Bullish** - P1 is red and P2 is green and is followed by down trend.
+  - **Bearish** - After upward trend, P1 is green and long and P2 is small engulfed by P1, sign to short on stock.
+  
+Note - **Price Gap concept** - Price Gap up When stock closes and opens on other day at different price.Means buys were happy to buy at more price than closed yesterday means the news shown is positive on stock. Similarly, price gap down opens at lesser than close previously.
+
+- **Morning Star** - 3 candlestick pattern. It is after down trend. P1 is red candle, P2 has gap down opening and forming doji/spinning top means indecision in market. P2 gap up opening and green candle with closing above P1s opening hence, compensating the loss at once, the stocks are likely to go high and long trade sign is there.
+
+
