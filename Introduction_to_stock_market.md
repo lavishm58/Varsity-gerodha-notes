@@ -169,4 +169,36 @@ Note - **Price Gap concept** - Price Gap up When stock closes and opens on other
 
 - **Morning Star** - 3 candlestick pattern. It is after down trend. P1 is red candle, P2 has gap down opening and forming doji/spinning top means indecision in market. P2 gap up opening and green candle with closing above P1s opening hence, compensating the loss at once, the stocks are likely to go high and long trade sign is there.
 
+#### Target price Calculate Using S&R
+**S is support** - Its when buyers more than seller. It is below current market price.Hence if you wanna short a trade target price will be support. 
+**R is Resistance** - when sellers are more.It is the position with abundance of stocks for buyers.Hence, more selling means prices will
+                      will go down after reaching high. It is above current market price.If you wanna long then target price is resistance level.
+                     
+**The S&R line could be support or resistance depending on current market price**
+**Steps to construct** - 
+- If Long term trader then take 12-18 months of data else 3-6 months.
+- Identify these points on data
+  - The price hesitating to move up after a long up movement.
+  - The price hesitating to move down after brief down movement.
+  - The sharp reversal at particular price points.
+  
+ - The points should be after proper time gap, should not be too close, atleast 2 weeks gap for 3-6 months.
+ 
+ **Note** - It is not gaurantee that S&R line would work but a well constructed one are respected.
+ 
+ **Volume** - If 100 shares are bought and 100 sold then volume is 100 not 200.
+ 
+ **Chart for Volume with price for pattern evaluation**
+ Price    Volume    Pattern
+ Increase Increase  Bullish
+ Increase Decrease  Weak hand buying
+ Decrease Increase  Bearish
+ Decrease Decrease  Weak selling
+ _Volume on today is compared with last 10 days as reference, calculate by moving average_
+ 
+**Institutional Money** Big institutions like LIC buy large chunk for shares which  can make wise moves in market and its called smart money comapred to retail trader. Hence when price and volume both increase means big player is showing interest, hence means bullish trend and buy sign. ALso, buy whenver volumes are huge means you are buyig with smart money.
+
+When price increase and volume doesn't means no instituional participant is there only retail ones are buying.
+
+Similarly, price and volume decrease is when big institution is selling its stock in large amount.
 
