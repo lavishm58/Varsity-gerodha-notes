@@ -202,3 +202,14 @@ When price increase and volume doesn't means no instituional participant is ther
 
 Similarly, price and volume decrease is when big institution is selling its stock in large amount.
 
+**Simple Moving Average** - Giving equal weightage to all.
+**Exponential Moving Average** - Giving more weightage to recent price.
+
+**MA Crossover system** - 
+* 9 day EMA with 21 EMA - For short term trades (few trading session)
+* 25 day EMA with 50 day EMA - medium term trade (few weeks)
+* 50 - 100 - few months
+* 100 with 200 - long term sometimes over a year or more.
+__Note - Longer the time frame lesser are trading signals__
+
+
